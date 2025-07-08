@@ -1,2 +1,2 @@
-# MY_FIRST_PROJECT
+# MY_FIRST_C_PROGRAMMING_PROJECT
 Author - Sagar tayde
